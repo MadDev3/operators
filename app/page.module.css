@@ -1,0 +1,25 @@
+
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.screen {
+  width: 300px;
+}
+
+.input {
+  background-color: #2a2a2a;
+  border: none;
+  outline: none;
+  height: 40px;
+  border-radius: 15px;
+  color: white;
+  font-size: 18px;
+  padding: 0 15px;
+  margin-bottom: 15px;
+  text-align: center;
+}
